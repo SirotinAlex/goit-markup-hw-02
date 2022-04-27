@@ -25,6 +25,14 @@ body{
     list-style: none;
 }
 
+.hero-title{
+font-size: 36px;
+line-height: 1.16;
+text-align: center;
+color: var(--secondary-text-color);
+
+}
+
 .section-title{
 font-size: 36px;
 line-height: 1.16;
