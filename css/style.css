@@ -40,3 +40,39 @@ text-align: center;
 color: var(--secondary-text-color);
 
 }
+
+/* logo webstudio */
+.logo{
+font-size: 26px;
+line-height: 1.19;
+color: var(--secondary-text-color);
+}
+
+.accent{ 
+    color: var(--accent-color);
+}
+
+/* ссылки */
+
+.nav-link{
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+color: var(--secondary-text-color);
+}
+
+.nav-link.current:hover,focus{
+  color: var(--accent-color);
+}
+
+.contact-link{
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+
+color: #757575;
+}
+
+.contact-link.current:hover,focus{
+    color: var(--accent-color);
+}
